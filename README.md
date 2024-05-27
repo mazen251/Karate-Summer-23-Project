@@ -81,7 +81,7 @@ More pre-trained models with their architecture can be found on this GitHub. [Re
 
 This project was published as part of an IEEE paper:
 - **Title:** [Real-time Detection of Taikyoku Shodan Karate Kata Poses Using Classical Machine Learning and Deep Learning Models](https://ieeexplore.ieee.org/document/10278373)
-- **Authors:** Mazen Walid, Mostafa Ameen, Ayman Atia
+- **Authors:** Mazen Walid, et al.
 - **Conference:** [2023 International Mobile, Intelligent, and Ubiquitous Computing Conference (MIUCC)](https://ieeexplore.ieee.org/xpl/conhome/10278292/proceeding)
 - **Date:** 6-7 March 2023
 - **Abstract:** The research discusses the necessity for a precise feedback karate training system utilizing ML and DL models to facilitate real-time pose detection by offering instantaneous and accurate feedback. The system has the potential to revolutionize training methodologies, improve performance, and make significant contributions to the field of martial arts research. Various ML & DL algorithms were explored to achieve optimal results. Among the classical ML methods, the Random Forest, attained an accuracy of 98%. Additionally, DL models were also examined, with the Long-Short term memory model achieving an accuracy of 97%.
