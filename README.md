@@ -104,7 +104,7 @@ For any inquiries or further information, please contact:
 Mazen Walid - [LinkedIn](https://www.linkedin.com/in/mazen-walid-225582208/)
 
 ## Acknowledgements
-- [Misr International University](Misr International University)
+- [Misr International University](https://miuegypt.edu.eg/)
 - [IEEE](https://www.ieee.org/)
 - [OpenCV](https://opencv.org/)
 - [TensorFlow](https://www.tensorflow.org/)
