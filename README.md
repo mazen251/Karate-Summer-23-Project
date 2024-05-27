@@ -77,6 +77,8 @@ This project uses several pre-trained models and datasets to analyze Karate tech
 More pre-trained models with their architecture can be found on this GitHub. [Repo](https://github.com/mazen251/ML-Project.git) 
 ## Publication
 
+![MIUCC Certificate](Assets/Cert.png)
+
 This project was published as part of an IEEE paper:
 - **Title:** [Real-time Detection of Taikyoku Shodan Karate Kata Poses Using Classical Machine Learning and Deep Learning Models](https://ieeexplore.ieee.org/document/10278373)
 - **Authors:** Mazen Walid, Mostafa Ameen, Ayman Atia
