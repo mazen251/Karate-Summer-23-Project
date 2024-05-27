@@ -108,6 +108,7 @@ Mazen Walid - [LinkedIn](https://www.linkedin.com/in/mazen-walid-225582208/)
 - [IEEE](https://www.ieee.org/)
 - [OpenCV](https://opencv.org/)
 - [TensorFlow](https://www.tensorflow.org/)
+- MediaPipe
 
 ## Detailed Research
 
