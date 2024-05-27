@@ -57,7 +57,7 @@ Follow these steps to set up the project on your local machine:
 ```sh
 # Clone the Repository
 git clone https://github.com/mazen251/Karate-Summer-23-Project-.git
-cd Karate-Summer-23-Project-
+cd Karate-Summer-23-Project-master
 
 # Install Dependencies
 pip install -r requirements.txt
