@@ -74,6 +74,7 @@ Once the application is installed, you can run it using the command above. The s
 
 This project uses several pre-trained models and datasets to analyze Karate techniques. Detailed information on these models can be found in the `models/` directory.
 
+More pre-trained models with their architecture can be found on this GitHub. [Repo](https://github.com/mazen251/ML-Project.git) 
 ## Publication
 
 This project was published as part of an IEEE paper:
