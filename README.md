@@ -26,7 +26,7 @@ Welcome to the Karate Summer 23 Project! This repository contains all the code a
 
 The Karate Summer 23 Project aims to enhance Karate training using advanced technologies. This project integrates various techniques to analyze and improve the performance of Karate practitioners. The system provides real-time feedback on Karate techniques using machine learning (ML) and deep learning (DL) models.
 
-The focus is specifically on the Taikyoku Shodan Karate Kata, covering the 20 sequential moves in this kata to provide precise feedback and improve practitioners' techniques.
+The focus is specifically on the Taikyoku Shodan Karate Kata, covering the 20 sequential moves (Excluding the starting and ending positions) in this kata to provide precise feedback and improve practitioners' techniques.
 
 ![Demo Image](Assets/img1.png)
 
